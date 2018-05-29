@@ -1,4 +1,4 @@
-FROM redmine:3.4
+FROM synapplix/redmine:3.4.5.sx1
 
 ENV PASSENGER_VERSION 5.3.1
 
